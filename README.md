@@ -13,7 +13,7 @@ each phrase written in separate line. to add a new phrase, write it in the new l
 
 There are two types of answers
 - common answers
-- answers with pattern places
+- answers with pattern places (marked as "\*")
 
 Pattern places can be replaced with one of the words of the previous sentence.
 
